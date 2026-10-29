@@ -1,0 +1,26 @@
+baseURL = 'https://k3nji.qzz.io/'
+languageCode = 'en-US'
+title = 'artc0re'
+
+[menus]
+  [[menus.main]]
+    name = 'home'
+    pageRef = '/'
+    weight = 1
+#    [menus.main.params]
+#      image = '/digigarden2025.png'
+
+  [[menus.main]]
+    name = 'bookmarks'
+    pageRef = '/bookmarks'
+    weight = 2
+
+  [[menus.main]]
+    name = 'ケンジ一'
+    pageRef = '/me'
+    weight = 3
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = '0.146.0'
