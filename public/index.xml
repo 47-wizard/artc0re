@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>My New Hugo Project</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;Who am I.. really?&#34;</title>
+				<link>http://localhost:1313/me/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/me/</guid>
+				<description>&lt;p&gt;originally written: 2026-10-10 | last updated: 2026-10-29&lt;/p&gt;&#xA;&lt;h2 id=&#34;greeting&#34;&gt;Greeting!&lt;/h2&gt;&#xA;&lt;p&gt;You might have found your way here via my bio on most of my SNS, or perhaps I gave you the actual site address in real life. Either way, I wish you stay healthy and find actual peace in this &lt;em&gt;&amp;ldquo;chaotic, messiness&amp;rdquo;&lt;/em&gt;  life.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-why-did-this-site-exist&#34;&gt;⋅ Why did this site exist?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;TL;DR: I just love writing things out.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Having gone through lots of terrible experiences in the past, writing and music have been the only ways I&amp;rsquo;ve found to express my feelings for years. I&amp;rsquo;ve been fighting the idea of staying silent or doing the opposite.. pumping out an unnecessary amount of words. I&amp;rsquo;m a person who would say really.. unnecessary really much. And I hurted people around me, either by writing unnecessary letter about my past.. that took me nights to write them down, either to feel shame afterwards, or by acting cold to make it look like I was fine, but tbh.. I wasn&amp;rsquo;t. Words are inherently a powerful tool that can ruin someone&amp;rsquo;s day, just by saying the wrong thing outside, and I did that in the face of &lt;del&gt;terrible mental illness&lt;/del&gt;. But&amp;hellip; I still kept writing. To either acknowledge my mistakes, express how I felt about the things I had been through or just encourage myself to do better. And I hope my blogs will inspire you, or at least&amp;hellip; make you feel something inside yours.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>my little museum!</title>
+				<link>http://localhost:1313/bookmarks/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/bookmarks/</guid>
+				<description>&lt;p&gt;!!!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://xn--gckvb8fzb.com/&#34;&gt;マリウス&lt;/a&gt;/ well-known journalist&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://dan.valeena.dev/&#34;&gt;Dan&amp;rsquo;s Guides&lt;/a&gt;/ personal blogs&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://d.fmhy.bid/&#34;&gt;FMHY&lt;/a&gt;/ free stuff/ community-maintained megawiki&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wispydocs.pages.dev/&#34;&gt;Wispy Docs&lt;/a&gt;/ simple guides&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://yearofthelinuxdesktop.net/&#34;&gt;Year of the Linux Desktop&lt;/a&gt;/ comprehensive GNU/Linux overview for beginner&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://eylenburg.github.io/&#34;&gt;Eylenburg&lt;/a&gt;/ comprehensive comparisons, histories, etc. in technology.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;???&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://grapheneos.org&#34;&gt;GrapheneOS&lt;/a&gt;/ privacy and security focused android fork&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.debian.org/&#34;&gt;Debian&lt;/a&gt;/ rock-solid distribution&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.getfedora.org/&#34;&gt;Fedora Linux&lt;/a&gt;/ bleeding-edge distribution&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://librewolf.net/&#34;&gt;LibreWolf&lt;/a&gt;/ harden-firefox for desktop&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ironfoxoss.org/&#34;&gt;IronFox&lt;/a&gt;/ harden-firefox for android&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;///&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/aristocratos/btop&#34;&gt;btop++&lt;/a&gt;/ resources monitor&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/karlstav/cava&#34;&gt;cava&lt;/a&gt;/ cross-platform audio visualizer&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/fastfetch-cli/fastfetch&#34;&gt;fastfetch&lt;/a&gt;/ system information tool&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/will8211/unimatrix&#34;&gt;unimatrix&lt;/a&gt;/ &amp;ldquo;the matrix&amp;rdquo; like w/ ½ katakana unicode char by default&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;xxx&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
